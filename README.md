@@ -1,1 +1,1 @@
-# smart-contracts
+To practice smart contracts in Solidity
